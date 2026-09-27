@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# App data (local, per-user)
+expenses.json
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
